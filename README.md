@@ -54,7 +54,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello World! <a name="about-project"></a>
 
-> Hello Rails Backend is built using the Ruby on Rails framework and a react front-end designed to demonstrate the basic concepts of react-ruby integration 
+> Hello Rails Backend is built using the Ruby on Rails framework and designed to demonstrate the basic concepts of react-ruby integration 
 
 **Blog App**
 
@@ -65,14 +65,6 @@ After you're finished please remove all the comments and instructions!
 > Ruby
 > Ruby on Rails
 > Postgresql
-> React
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/"></a>React</li>
-  </ul>
-</details>
 
 <details>
   <summary>Server</summary>
@@ -98,9 +90,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Link to React App <a name="live-demo"></a>
 
-> Coming Soon!!!
+> [Hello Front-end](http://localhost:3001/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
