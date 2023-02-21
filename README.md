@@ -92,7 +92,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Link to React App <a name="live-demo"></a>
 
-> [Hello Front-end](http://localhost:3001/)
+> [Hello React Front-end](https://github.com/j-tee/front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
